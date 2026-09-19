@@ -1,0 +1,54 @@
+name: daily index forecast
+
+# 22:00 UTC = 07:00 KST. 미국장 마감(16:00 ET)은 서머타임이면 20:00 UTC,
+# 아니면 21:00 UTC다. 06:00 KST(21:00 UTC)로 잡으면 겨울에 마감과 겹쳐
+# 마지막 봉이 덜 찬 채로 받아올 수 있어서 한 시간 더 뒤로 뺐다.
+# 월~금(UTC) = 화~토 아침(KST). 미국장이 안 열리는 주말엔 돌지 않는다.
+on:
+  schedule:
+    - cron: "0 22 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-forecast
+  cancel-in-progress: false
+
+jobs:
+  forecast:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      # 학습된 모델을 실행 사이에 넘겨준다(매 실행 새 키로 저장 + 직전 것 복원).
+      # 재학습 주기는 캐시가 아니라 예측기가 정한다 — 모델이 7일 넘으면 스스로
+      # 다시 학습한다. 성적표 62.8%를 잰 주기가 그 7일이라 같게 유지하려는 것.
+      # 캐시가 비어도 run.py가 처음부터 학습하므로(실측 40초) 실패하지 않는다.
+      - uses: actions/cache@v4
+        with:
+          path: output/*.joblib
+          key: model-${{ github.run_id }}
+          restore-keys: model-
+
+      - name: 예측 실행
+        run: python run.py
+
+      # run.py는 예측에 실패하면 exit 1이라 여기까지 오지 않는다.
+      # = 옛 값이 새 값인 척 다시 발행되는 일이 없다.
+      - name: 결과 커밋
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add intel.json history.csv
+          git diff --staged --quiet && echo "변경 없음" && exit 0
+          git commit -m "지수 전망 갱신 $(date -u +%Y-%m-%d)"
+          git push

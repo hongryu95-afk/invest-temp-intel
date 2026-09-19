@@ -1,0 +1,2 @@
+date,asof,spy_direction,spy_probability,spy_predicted_return,qqq_direction,qqq_probability,qqq_predicted_return,model_accuracy
+2026-09-19,2026-09-18,bullish,0.613,-0.17,bullish,0.638,0.554,0.5905
