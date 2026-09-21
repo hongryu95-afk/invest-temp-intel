@@ -1,0 +1,107 @@
+{
+  "source": "us-stock 로컬 파이프라인",
+  "generated_at": "2026-09-21 09:26:09",
+  "candidates": 20,
+  "rs_missing": 0,
+  "dead_factors": [
+    "13F 기관보유(비중 10%) — 데이터 없음, 전 종목 50점 고정"
+  ],
+  "picks": [
+    {
+      "rank": 1,
+      "ticker": "MU",
+      "name": "Micron Technology",
+      "sector": "Information Technology",
+      "score": 78.1,
+      "grade": "A",
+      "rs_vs_spy": 80.5
+    },
+    {
+      "rank": 2,
+      "ticker": "SNDK",
+      "name": "Sandisk",
+      "sector": "Information Technology",
+      "score": 76.6,
+      "grade": "B",
+      "rs_vs_spy": 84.3
+    },
+    {
+      "rank": 3,
+      "ticker": "VLO",
+      "name": "Valero Energy",
+      "sector": "Energy",
+      "score": 73.9,
+      "grade": "B",
+      "rs_vs_spy": 45.9
+    },
+    {
+      "rank": 4,
+      "ticker": "MPC",
+      "name": "Marathon Petroleum",
+      "sector": "Energy",
+      "score": 73.8,
+      "grade": "B",
+      "rs_vs_spy": 48.8
+    },
+    {
+      "rank": 5,
+      "ticker": "PSX",
+      "name": "Phillips 66",
+      "sector": "Energy",
+      "score": 73.2,
+      "grade": "B",
+      "rs_vs_spy": 33.4
+    },
+    {
+      "rank": 6,
+      "ticker": "ANET",
+      "name": "Arista Networks",
+      "sector": "Information Technology",
+      "score": 73.0,
+      "grade": "B",
+      "rs_vs_spy": 29.6
+    },
+    {
+      "rank": 7,
+      "ticker": "NTAP",
+      "name": "NetApp",
+      "sector": "Information Technology",
+      "score": 71.4,
+      "grade": "B",
+      "rs_vs_spy": 44.6
+    },
+    {
+      "rank": 8,
+      "ticker": "HPE",
+      "name": "Hewlett Packard Enterprise",
+      "sector": "Information Technology",
+      "score": 69.9,
+      "grade": "B",
+      "rs_vs_spy": 76.5
+    },
+    {
+      "rank": 9,
+      "ticker": "A",
+      "name": "Agilent Technologies",
+      "sector": "Health Care",
+      "score": 69.4,
+      "grade": "B",
+      "rs_vs_spy": 15.4
+    },
+    {
+      "rank": 10,
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "sector": "Communication Services",
+      "score": 69.1,
+      "grade": "B",
+      "rs_vs_spy": 12.0
+    }
+  ],
+  "scorecard": {
+    "window_days": 60,
+    "vs_spy_pp": -4.2,
+    "win_rate_pct": 34,
+    "measured_on": "2026-09-19"
+  }
+}
