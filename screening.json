@@ -15,6 +15,7 @@
       "sector": "Information Technology",
       "score": 78.1,
       "grade": "A",
+      "ai_view": "STRONG_BUY",
       "rs_vs_spy": 80.5
     },
     {
@@ -24,6 +25,7 @@
       "sector": "Information Technology",
       "score": 76.6,
       "grade": "B",
+      "ai_view": "BUY",
       "rs_vs_spy": 84.3
     },
     {
@@ -33,6 +35,7 @@
       "sector": "Energy",
       "score": 73.9,
       "grade": "B",
+      "ai_view": "BUY",
       "rs_vs_spy": 45.9
     },
     {
@@ -42,6 +45,7 @@
       "sector": "Energy",
       "score": 73.8,
       "grade": "B",
+      "ai_view": "BUY",
       "rs_vs_spy": 48.8
     },
     {
@@ -51,6 +55,7 @@
       "sector": "Energy",
       "score": 73.2,
       "grade": "B",
+      "ai_view": "BUY",
       "rs_vs_spy": 33.4
     },
     {
@@ -60,6 +65,7 @@
       "sector": "Information Technology",
       "score": 73.0,
       "grade": "B",
+      "ai_view": "BUY",
       "rs_vs_spy": 29.6
     },
     {
@@ -69,6 +75,7 @@
       "sector": "Information Technology",
       "score": 71.4,
       "grade": "B",
+      "ai_view": "BUY",
       "rs_vs_spy": 44.6
     },
     {
@@ -78,6 +85,7 @@
       "sector": "Information Technology",
       "score": 69.9,
       "grade": "B",
+      "ai_view": "HOLD",
       "rs_vs_spy": 76.5
     },
     {
@@ -87,6 +95,7 @@
       "sector": "Health Care",
       "score": 69.4,
       "grade": "B",
+      "ai_view": "HOLD",
       "rs_vs_spy": 15.4
     },
     {
@@ -96,6 +105,7 @@
       "sector": "Communication Services",
       "score": 69.1,
       "grade": "B",
+      "ai_view": "HOLD",
       "rs_vs_spy": 12.0
     }
   ],
