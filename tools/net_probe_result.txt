@@ -1,0 +1,21 @@
+========================================================
+FRED: HTTP 400 — 서버가 자기 형식으로 거절
+  {"error_code":400,"error_message":"Bad Request.  The value for variable api_key is not registered.  Read https:\/\/fred.stlouisfed.org\/docs\/api\/api_key.html for more information."}
+  판정: 뚫림 — 키만 붙이면 됨
+
+Gemini: HTTP 400 — 서버가 자기 형식으로 거절
+  {
+  "error": {
+    "code": 400,
+    "message": "API key not valid. Please pass a valid API key.",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/googl
+  판정: 뚫림 — 키만 붙이면 됨
+
+Telegram API: HTTP 401 — 서버가 자기 형식으로 거절
+  {"ok":false,"error_code":401,"description":"Unauthorized: invalid token specified"}
+  판정: 뚫림 — 키만 붙이면 됨
+
+========================================================
