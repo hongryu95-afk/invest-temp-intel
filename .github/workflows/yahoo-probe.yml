@@ -8,7 +8,7 @@ on:
   push:
     paths:
       - '.github/workflows/yahoo-probe.yml'
-      - 'tools/yahoo_probe.py'
+      - 'tools/net_probe.py'
 
 jobs:
   probe:
@@ -20,14 +20,14 @@ jobs:
           python-version: "3.11"
           cache: pip
       - run: pip install -r requirements.txt
-      - run: python tools/yahoo_probe.py 503
+      - run: python tools/net_probe.py
       # Actions 로그는 로그인해야 보인다 — 결과를 저장소에 커밋해서 받는다
       - name: 결과 커밋
         if: always()
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -f tools/yahoo_probe_result.txt
+          git add -f tools/yahoo_probe_result.txt tools/net_probe_result.txt
           git diff --staged --quiet && exit 0
           git commit -m "야후 탐침 결과"
           git push
