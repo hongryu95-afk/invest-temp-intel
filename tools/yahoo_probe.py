@@ -17,6 +17,15 @@ import time
 
 import yfinance as yf
 
+OUT = []
+_p = print
+
+
+def print(*a, **k):  # noqa: A001 — 화면과 파일에 같이 남긴다
+    _p(*a, **k)
+    OUT.append(" ".join(str(x) for x in a))
+
+
 N = int(sys.argv[1]) if len(sys.argv) > 1 else 100
 
 session = None
@@ -87,3 +96,6 @@ elif hist_ok / n >= 0.95:
     print("판정: 반쪽 — 시세는 되는데 info(재무)가 막힌다. 재무 항목 20%가 죽는다")
 else:
     print("판정: 막힘 — 클라우드 이전 불가. PC에서 계속 돌려야 한다")
+
+import pathlib  # noqa: E402
+pathlib.Path("tools/yahoo_probe_result.txt").write_text("\n".join(OUT) + "\n", encoding="utf-8")
