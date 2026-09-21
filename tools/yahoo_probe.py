@@ -11,6 +11,7 @@ curl_cffi 크롬 임퍼소네이션 + `history()` + `info()` 두 종류.
 
 성공 여부만 찍고 끝낸다. 실패해도 exit 0 — 이건 판단 재료지 파이프라인이 아니다.
 """
+import pathlib
 import random
 import sys
 import time
@@ -36,16 +37,14 @@ try:
 except ImportError:
     print("⚠ curl_cffi 없음 — 맨몸 요청이라 실제보다 불리한 조건")
 
-# S&P500 목록 자체를 못 받으면 그것도 결과다
-try:
-    import pandas as pd
-    tables = pd.read_html("https://en.wikipedia.org/wiki/List_of_S%26P_500_companies")
-    universe = [t.replace(".", "-") for t in tables[0]["Symbol"].tolist()]
-    print(f"S&P500 목록 수집 OK: {len(universe)}종목")
-except Exception as e:
-    print(f"S&P500 목록 수집 실패({type(e).__name__}) — 하드코딩 표본으로 진행")
-    universe = ["AAPL", "MSFT", "NVDA", "AMZN", "META", "GOOGL", "TSLA", "AVGO", "JPM", "V",
-                "UNH", "XOM", "MA", "PG", "JNJ", "HD", "COST", "ABBV", "MRK", "WMT"]
+# 목록은 저장소에 둔 CSV에서 읽는다. 위키피디아는 데이터센터 IP를 막았고(1차 탐침에서 HTTPError),
+# us-stock도 런타임에 위키를 긁지 않고 data/sp500_list.csv를 읽으므로 조건이 같다.
+import pandas as pd  # noqa: E402
+
+_csv = pathlib.Path(__file__).with_name("sp500_list.csv")
+universe = [t.strip().replace(".", "-")
+            for t in pd.read_csv(_csv, encoding="utf-8-sig")["Symbol"].tolist()]
+print(f"종목 목록: {len(universe)}개 (저장소 CSV)")
 
 random.seed(7)
 sample = random.sample(universe, min(N, len(universe)))
@@ -74,7 +73,7 @@ for i, tk in enumerate(sample, 1):
             info_fail += 1
     except Exception:
         info_fail += 1
-    if i % 25 == 0:
+    if i % 100 == 0:
         print(f"  {i}/{len(sample)} · {time.time()-t0:.0f}초 · "
               f"history {hist_ok}OK/{hist_fail}실패 · info {info_ok}OK/{info_fail}실패")
 
@@ -97,5 +96,4 @@ elif hist_ok / n >= 0.95:
 else:
     print("판정: 막힘 — 클라우드 이전 불가. PC에서 계속 돌려야 한다")
 
-import pathlib  # noqa: E402
 pathlib.Path("tools/yahoo_probe_result.txt").write_text("\n".join(OUT) + "\n", encoding="utf-8")

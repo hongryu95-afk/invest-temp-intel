@@ -19,8 +19,8 @@ jobs:
         with:
           python-version: "3.11"
           cache: pip
-      - run: pip install -r requirements.txt lxml
-      - run: python tools/yahoo_probe.py 100
+      - run: pip install -r requirements.txt
+      - run: python tools/yahoo_probe.py 503
       # Actions 로그는 로그인해야 보인다 — 결과를 저장소에 커밋해서 받는다
       - name: 결과 커밋
         if: always()
