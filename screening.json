@@ -11,7 +11,7 @@
     {
       "rank": 1,
       "ticker": "MU",
-      "name": "Micron Technology",
+      "name": "마이크론 테크놀로지",
       "sector": "Information Technology",
       "score": 78.1,
       "grade": "A",
@@ -21,7 +21,7 @@
     {
       "rank": 2,
       "ticker": "SNDK",
-      "name": "Sandisk",
+      "name": "샌디스크",
       "sector": "Information Technology",
       "score": 76.6,
       "grade": "B",
@@ -31,7 +31,7 @@
     {
       "rank": 3,
       "ticker": "VLO",
-      "name": "Valero Energy",
+      "name": "발레로 에너지",
       "sector": "Energy",
       "score": 73.9,
       "grade": "B",
@@ -41,7 +41,7 @@
     {
       "rank": 4,
       "ticker": "MPC",
-      "name": "Marathon Petroleum",
+      "name": "매러선 페트롤리엄",
       "sector": "Energy",
       "score": 73.8,
       "grade": "B",
@@ -51,7 +51,7 @@
     {
       "rank": 5,
       "ticker": "PSX",
-      "name": "Phillips 66",
+      "name": "필립스 66",
       "sector": "Energy",
       "score": 73.2,
       "grade": "B",
@@ -61,7 +61,7 @@
     {
       "rank": 6,
       "ticker": "ANET",
-      "name": "Arista Networks",
+      "name": "아리스타 네트웍스",
       "sector": "Information Technology",
       "score": 73.0,
       "grade": "B",
@@ -71,7 +71,7 @@
     {
       "rank": 7,
       "ticker": "NTAP",
-      "name": "NetApp",
+      "name": "넷앱",
       "sector": "Information Technology",
       "score": 71.4,
       "grade": "B",
@@ -81,7 +81,7 @@
     {
       "rank": 8,
       "ticker": "HPE",
-      "name": "Hewlett Packard Enterprise",
+      "name": "휴렛패커드 엔터프라이즈",
       "sector": "Information Technology",
       "score": 69.9,
       "grade": "B",
@@ -91,7 +91,7 @@
     {
       "rank": 9,
       "ticker": "A",
-      "name": "Agilent Technologies",
+      "name": "애질런트 테크놀로지스",
       "sector": "Health Care",
       "score": 69.4,
       "grade": "B",
@@ -101,7 +101,7 @@
     {
       "rank": 10,
       "ticker": "META",
-      "name": "Meta Platforms",
+      "name": "메타",
       "sector": "Communication Services",
       "score": 69.1,
       "grade": "B",
