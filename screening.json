@@ -1,6 +1,6 @@
 {
   "source": "us-stock 로컬 파이프라인",
-  "generated_at": "2026-09-24 09:18:20",
+  "generated_at": "2026-09-25 09:14:00",
   "universe": 503,
   "candidates": 20,
   "rs_missing": 0,
@@ -13,100 +13,100 @@
       "ticker": "MU",
       "name": "마이크론 테크놀로지",
       "sector": "Information Technology",
-      "score": 76.1,
+      "score": 76.4,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 103.4
+      "rs_vs_spy": 86.6
     },
     {
       "rank": 2,
-      "ticker": "SNDK",
-      "name": "샌디스크",
-      "sector": "Information Technology",
-      "score": 74.3,
+      "ticker": "META",
+      "name": "메타",
+      "sector": "Communication Services",
+      "score": 73.1,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 88.9
+      "rs_vs_spy": 20.0
     },
     {
       "rank": 3,
       "ticker": "SMCI",
       "name": "슈퍼 마이크로 컴퓨터",
       "sector": "Information Technology",
-      "score": 74.3,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 43.5
-    },
-    {
-      "rank": 4,
-      "ticker": "VLO",
-      "name": "발레로 에너지",
-      "sector": "Energy",
-      "score": 73.0,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 36.3
-    },
-    {
-      "rank": 5,
-      "ticker": "META",
-      "name": "메타",
-      "sector": "Communication Services",
-      "score": 73.0,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 19.1
-    },
-    {
-      "rank": 6,
-      "ticker": "GDDY",
-      "name": "고대디",
-      "sector": "Information Technology",
       "score": 72.7,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 13.3
+      "rs_vs_spy": 47.6
     },
     {
-      "rank": 7,
-      "ticker": "NTAP",
-      "name": "넷앱",
+      "rank": 4,
+      "ticker": "SNDK",
+      "name": "샌디스크",
       "sector": "Information Technology",
-      "score": 72.5,
+      "score": 72.2,
       "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 45.9
+      "ai_view": "HOLD",
+      "rs_vs_spy": 72.1
     },
     {
-      "rank": 8,
-      "ticker": "NVDA",
-      "name": "엔비디아",
-      "sector": "Information Technology",
-      "score": 72.3,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 11.5
-    },
-    {
-      "rank": 9,
+      "rank": 5,
       "ticker": "ANET",
       "name": "아리스타 네트웍스",
       "sector": "Information Technology",
-      "score": 69.3,
+      "score": 72.1,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 33.1
+    },
+    {
+      "rank": 6,
+      "ticker": "HPE",
+      "name": "휴렛패커드 엔터프라이즈",
+      "sector": "Information Technology",
+      "score": 71.8,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 86.1
+    },
+    {
+      "rank": 7,
+      "ticker": "NVDA",
+      "name": "엔비디아",
+      "sector": "Information Technology",
+      "score": 70.4,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 10.1
+    },
+    {
+      "rank": 8,
+      "ticker": "PLTR",
+      "name": "팔란티어 테크놀로지스",
+      "sector": "Information Technology",
+      "score": 70.2,
       "grade": "B",
       "ai_view": "HOLD",
-      "rs_vs_spy": 35.5
+      "rs_vs_spy": 27.2
+    },
+    {
+      "rank": 9,
+      "ticker": "NTAP",
+      "name": "넷앱",
+      "sector": "Information Technology",
+      "score": 68.6,
+      "grade": "B",
+      "ai_view": "HOLD",
+      "rs_vs_spy": 46.3
     },
     {
       "rank": 10,
-      "ticker": "MPC",
-      "name": "매러선 페트롤리엄",
-      "sector": "Energy",
-      "score": 68.8,
+      "ticker": "A",
+      "name": "애질런트 테크놀로지스",
+      "sector": "Health Care",
+      "score": 68.6,
       "grade": "B",
       "ai_view": "HOLD",
-      "rs_vs_spy": 40.7
+      "rs_vs_spy": 20.6
     }
   ],
   "scorecard": {
