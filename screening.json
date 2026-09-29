@@ -1,6 +1,6 @@
 {
   "source": "us-stock 로컬 파이프라인",
-  "generated_at": "2026-09-28 09:14:07",
+  "generated_at": "2026-09-29 09:10:49",
   "universe": 503,
   "candidates": 20,
   "rs_missing": 0,
@@ -13,53 +13,63 @@
       "ticker": "MU",
       "name": "마이크론 테크놀로지",
       "sector": "Information Technology",
-      "score": 76.0,
+      "score": 73.5,
       "grade": "B",
-      "ai_view": "BUY",
+      "ai_view": "HOLD",
       "rs_vs_spy": 87.9
     },
     {
       "rank": 2,
-      "ticker": "SNDK",
-      "name": "샌디스크",
-      "sector": "Information Technology",
-      "score": 74.5,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 62.9
-    },
-    {
-      "rank": 3,
-      "ticker": "ANET",
-      "name": "아리스타 네트웍스",
-      "sector": "Information Technology",
-      "score": 73.1,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 29.5
-    },
-    {
-      "rank": 4,
-      "ticker": "ZBRA",
-      "name": "지브라 테크놀로지스",
-      "sector": "Information Technology",
-      "score": 73.0,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 39.6
-    },
-    {
-      "rank": 5,
       "ticker": "META",
       "name": "메타",
       "sector": "Communication Services",
-      "score": 72.6,
+      "score": 73.0,
       "grade": "B",
       "ai_view": "BUY",
       "rs_vs_spy": 18.9
     },
     {
+      "rank": 3,
+      "ticker": "SNDK",
+      "name": "샌디스크",
+      "sector": "Information Technology",
+      "score": 72.0,
+      "grade": "B",
+      "ai_view": "HOLD",
+      "rs_vs_spy": 62.9
+    },
+    {
+      "rank": 4,
+      "ticker": "ANET",
+      "name": "아리스타 네트웍스",
+      "sector": "Information Technology",
+      "score": 70.6,
+      "grade": "B",
+      "ai_view": "HOLD",
+      "rs_vs_spy": 29.5
+    },
+    {
+      "rank": 5,
+      "ticker": "ZBRA",
+      "name": "지브라 테크놀로지스",
+      "sector": "Information Technology",
+      "score": 70.5,
+      "grade": "B",
+      "ai_view": "HOLD",
+      "rs_vs_spy": 39.6
+    },
+    {
       "rank": 6,
+      "ticker": "SMCI",
+      "name": "슈퍼 마이크로 컴퓨터",
+      "sector": "Information Technology",
+      "score": 70.1,
+      "grade": "B",
+      "ai_view": "HOLD",
+      "rs_vs_spy": 57.5
+    },
+    {
+      "rank": 7,
       "ticker": "HPE",
       "name": "휴렛패커드 엔터프라이즈",
       "sector": "Information Technology",
@@ -69,7 +79,7 @@
       "rs_vs_spy": 85.0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "ticker": "NTAP",
       "name": "넷앱",
       "sector": "Information Technology",
@@ -79,7 +89,7 @@
       "rs_vs_spy": 49.8
     },
     {
-      "rank": 8,
+      "rank": 9,
       "ticker": "MSFT",
       "name": "마이크로소프트",
       "sector": "Information Technology",
@@ -89,7 +99,7 @@
       "rs_vs_spy": 20.3
     },
     {
-      "rank": 9,
+      "rank": 10,
       "ticker": "PLTR",
       "name": "팔란티어 테크놀로지스",
       "sector": "Information Technology",
@@ -97,16 +107,6 @@
       "grade": "B",
       "ai_view": "HOLD",
       "rs_vs_spy": 19.8
-    },
-    {
-      "rank": 10,
-      "ticker": "A",
-      "name": "애질런트 테크놀로지스",
-      "sector": "Health Care",
-      "score": 68.6,
-      "grade": "B",
-      "ai_view": "HOLD",
-      "rs_vs_spy": 26.2
     }
   ],
   "scorecard": {
