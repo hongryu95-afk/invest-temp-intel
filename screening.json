@@ -1,6 +1,6 @@
 {
   "source": "us-stock 로컬 파이프라인",
-  "generated_at": "2026-10-05 09:12:55",
+  "generated_at": "2026-10-06 09:13:00",
   "universe": 503,
   "candidates": 20,
   "rs_missing": 0,
@@ -10,6 +10,16 @@
   "picks": [
     {
       "rank": 1,
+      "ticker": "MU",
+      "name": "마이크론 테크놀로지",
+      "sector": "Information Technology",
+      "score": 76.5,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 73.8
+    },
+    {
+      "rank": 2,
       "ticker": "MSFT",
       "name": "마이크로소프트",
       "sector": "Information Technology",
@@ -17,16 +27,6 @@
       "grade": "B",
       "ai_view": "BUY",
       "rs_vs_spy": 21.2
-    },
-    {
-      "rank": 2,
-      "ticker": "MU",
-      "name": "마이크론 테크놀로지",
-      "sector": "Information Technology",
-      "score": 74.0,
-      "grade": "B",
-      "ai_view": "HOLD",
-      "rs_vs_spy": 73.8
     },
     {
       "rank": 3,
@@ -80,16 +80,6 @@
     },
     {
       "rank": 8,
-      "ticker": "SNDK",
-      "name": "샌디스크",
-      "sector": "Information Technology",
-      "score": 69.3,
-      "grade": "B",
-      "ai_view": "HOLD",
-      "rs_vs_spy": 33.1
-    },
-    {
-      "rank": 9,
       "ticker": "HPE",
       "name": "휴렛패커드 엔터프라이즈",
       "sector": "Information Technology",
@@ -97,6 +87,16 @@
       "grade": "B",
       "ai_view": "HOLD",
       "rs_vs_spy": 101.4
+    },
+    {
+      "rank": 9,
+      "ticker": "SNDK",
+      "name": "샌디스크",
+      "sector": "Information Technology",
+      "score": 69.3,
+      "grade": "B",
+      "ai_view": "HOLD",
+      "rs_vs_spy": 33.1
     },
     {
       "rank": 10,
