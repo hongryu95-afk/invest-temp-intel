@@ -10,3 +10,4 @@ date,asof,spy_direction,spy_probability,spy_predicted_return,qqq_direction,qqq_p
 2026-10-01,2026-09-30,bearish,0.225,-0.364,bearish,0.411,-0.54,0.5635
 2026-10-02,2026-10-01,bearish,0.296,-0.229,bearish,0.439,-0.295,0.5635
 2026-10-03,2026-10-02,bearish,0.37,-0.098,bearish,0.472,0.111,0.5635
+2026-10-06,2026-10-05,bearish,0.437,0.077,bearish,0.419,-0.475,0.5635
