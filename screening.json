@@ -1,6 +1,6 @@
 {
   "source": "us-stock 로컬 파이프라인",
-  "generated_at": "2026-10-07 09:22:32",
+  "generated_at": "2026-10-08 09:11:08",
   "universe": 503,
   "candidates": 20,
   "rs_missing": 0,
@@ -13,100 +13,100 @@
       "ticker": "MU",
       "name": "마이크론 테크놀로지",
       "sector": "Information Technology",
-      "score": 76.4,
+      "score": 73.7,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 60.7
+      "rs_vs_spy": 61.4
     },
     {
       "rank": 2,
-      "ticker": "VLO",
-      "name": "발레로 에너지",
-      "sector": "Energy",
-      "score": 74.8,
+      "ticker": "PLTR",
+      "name": "팔란티어 테크놀로지스",
+      "sector": "Information Technology",
+      "score": 73.3,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 50.3
+      "rs_vs_spy": 26.8
     },
     {
       "rank": 3,
-      "ticker": "MSFT",
-      "name": "마이크로소프트",
-      "sector": "Information Technology",
-      "score": 74.7,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 22.0
-    },
-    {
-      "rank": 4,
       "ticker": "MPC",
       "name": "매러선 페트롤리엄",
       "sector": "Energy",
-      "score": 74.5,
+      "score": 72.8,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 58.6
+      "rs_vs_spy": 55.5
     },
     {
-      "rank": 5,
-      "ticker": "A",
-      "name": "애질런트 테크놀로지스",
-      "sector": "Health Care",
-      "score": 72.2,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 25.1
-    },
-    {
-      "rank": 6,
-      "ticker": "HPE",
-      "name": "휴렛패커드 엔터프라이즈",
-      "sector": "Information Technology",
-      "score": 71.9,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 102.1
-    },
-    {
-      "rank": 7,
-      "ticker": "STX",
-      "name": "씨게이트",
-      "sector": "Information Technology",
-      "score": 71.0,
-      "grade": "B",
-      "ai_view": "HOLD",
-      "rs_vs_spy": 26.3
-    },
-    {
-      "rank": 8,
+      "rank": 4,
       "ticker": "NVDA",
       "name": "엔비디아",
       "sector": "Information Technology",
-      "score": 69.5,
+      "score": 72.2,
       "grade": "B",
-      "ai_view": "HOLD",
-      "rs_vs_spy": 8.6
+      "ai_view": "BUY",
+      "rs_vs_spy": 9.2
     },
     {
-      "rank": 9,
+      "rank": 5,
+      "ticker": "VLO",
+      "name": "발레로 에너지",
+      "sector": "Energy",
+      "score": 71.2,
+      "grade": "B",
+      "ai_view": "HOLD",
+      "rs_vs_spy": 46.9
+    },
+    {
+      "rank": 6,
+      "ticker": "MSFT",
+      "name": "마이크로소프트",
+      "sector": "Information Technology",
+      "score": 70.6,
+      "grade": "B",
+      "ai_view": "HOLD",
+      "rs_vs_spy": 19.1
+    },
+    {
+      "rank": 7,
+      "ticker": "A",
+      "name": "애질런트 테크놀로지스",
+      "sector": "Health Care",
+      "score": 69.8,
+      "grade": "B",
+      "ai_view": "HOLD",
+      "rs_vs_spy": 24.4
+    },
+    {
+      "rank": 8,
       "ticker": "ZBRA",
       "name": "지브라 테크놀로지스",
       "sector": "Information Technology",
-      "score": 69.5,
+      "score": 69.3,
       "grade": "B",
       "ai_view": "HOLD",
-      "rs_vs_spy": 37.8
+      "rs_vs_spy": 41.7
+    },
+    {
+      "rank": 9,
+      "ticker": "ANET",
+      "name": "아리스타 네트웍스",
+      "sector": "Information Technology",
+      "score": 69.3,
+      "grade": "B",
+      "ai_view": "HOLD",
+      "rs_vs_spy": 19.9
     },
     {
       "rank": 10,
-      "ticker": "WST",
-      "name": "웨스트 파마슈티컬 서비시즈",
-      "sector": "Health Care",
-      "score": 69.4,
+      "ticker": "SMCI",
+      "name": "슈퍼 마이크로 컴퓨터",
+      "sector": "Information Technology",
+      "score": 68.9,
       "grade": "B",
       "ai_view": "HOLD",
-      "rs_vs_spy": 17.4
+      "rs_vs_spy": 40.7
     }
   ],
   "scorecard": {
