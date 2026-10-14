@@ -16,3 +16,4 @@ date,asof,spy_direction,spy_probability,spy_predicted_return,qqq_direction,qqq_p
 2026-10-09,2026-10-08,bearish,0.415,-0.3,bearish,0.492,-0.682,0.5638
 2026-10-10,2026-10-09,bearish,0.247,-0.293,bearish,0.246,-0.814,0.5638
 2026-10-13,2026-10-12,bullish,0.647,-0.386,bullish,0.597,-0.638,0.5638
+2026-10-14,2026-10-13,bullish,0.654,-0.184,bullish,0.608,-0.799,0.5638
