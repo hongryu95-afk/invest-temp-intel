@@ -1,6 +1,6 @@
 {
   "source": "us-stock 로컬 파이프라인",
-  "generated_at": "2026-10-15 09:11:01",
+  "generated_at": "2026-10-16 09:13:21",
   "universe": 503,
   "candidates": 20,
   "rs_missing": 0,
@@ -10,103 +10,103 @@
   "picks": [
     {
       "rank": 1,
+      "ticker": "MSFT",
+      "name": "마이크로소프트",
+      "sector": "Information Technology",
+      "score": 73.8,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 20.6
+    },
+    {
+      "rank": 2,
+      "ticker": "ACN",
+      "name": "액센추어",
+      "sector": "Information Technology",
+      "score": 72.5,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 24.5
+    },
+    {
+      "rank": 3,
       "ticker": "VLO",
       "name": "발레로 에너지",
       "sector": "Energy",
       "score": 72.5,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 58.0
-    },
-    {
-      "rank": 2,
-      "ticker": "PTC",
-      "name": "PTC",
-      "sector": "Information Technology",
-      "score": 72.1,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 37.7
-    },
-    {
-      "rank": 3,
-      "ticker": "ZBRA",
-      "name": "지브라 테크놀로지스",
-      "sector": "Information Technology",
-      "score": 72.0,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 42.9
+      "rs_vs_spy": 60.0
     },
     {
       "rank": 4,
-      "ticker": "PSX",
-      "name": "필립스 66",
-      "sector": "Energy",
-      "score": 71.8,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 49.5
-    },
-    {
-      "rank": 5,
       "ticker": "MPC",
       "name": "매러선 페트롤리엄",
       "sector": "Energy",
-      "score": 71.6,
+      "score": 71.7,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 69.7
+      "rs_vs_spy": 73.4
+    },
+    {
+      "rank": 5,
+      "ticker": "PSX",
+      "name": "필립스 66",
+      "sector": "Energy",
+      "score": 71.7,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 53.1
     },
     {
       "rank": 6,
-      "ticker": "ACN",
-      "name": "액센추어",
-      "sector": "Information Technology",
-      "score": 71.4,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 17.1
-    },
-    {
-      "rank": 7,
-      "ticker": "MSFT",
-      "name": "마이크로소프트",
-      "sector": "Information Technology",
-      "score": 70.5,
-      "grade": "B",
-      "ai_view": "HOLD",
-      "rs_vs_spy": 18.4
-    },
-    {
-      "rank": 8,
-      "ticker": "HPE",
-      "name": "휴렛패커드 엔터프라이즈",
-      "sector": "Information Technology",
-      "score": 69.9,
-      "grade": "B",
-      "ai_view": "HOLD",
-      "rs_vs_spy": 85.4
-    },
-    {
-      "rank": 9,
       "ticker": "PLTR",
       "name": "팔란티어 테크놀로지스",
       "sector": "Information Technology",
-      "score": 68.7,
+      "score": 71.7,
       "grade": "B",
-      "ai_view": "HOLD",
-      "rs_vs_spy": 31.9
+      "ai_view": "BUY",
+      "rs_vs_spy": 33.5
     },
     {
-      "rank": 10,
+      "rank": 7,
+      "ticker": "CVX",
+      "name": "셰브론",
+      "sector": "Energy",
+      "score": 71.3,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 10.4
+    },
+    {
+      "rank": 8,
+      "ticker": "HUM",
+      "name": "휴마나",
+      "sector": "Health Care",
+      "score": 70.2,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 47.6
+    },
+    {
+      "rank": 9,
       "ticker": "NTAP",
       "name": "넷앱",
       "sector": "Information Technology",
       "score": 68.2,
       "grade": "B",
       "ai_view": "HOLD",
-      "rs_vs_spy": 70.9
+      "rs_vs_spy": 60.6
+    },
+    {
+      "rank": 10,
+      "ticker": "MU",
+      "name": "마이크론 테크놀로지",
+      "sector": "Information Technology",
+      "score": 67.8,
+      "grade": "B",
+      "ai_view": "HOLD",
+      "rs_vs_spy": 36.9
     }
   ],
   "scorecard": {
