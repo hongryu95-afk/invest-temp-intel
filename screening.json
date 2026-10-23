@@ -1,6 +1,6 @@
 {
   "source": "us-stock 로컬 파이프라인",
-  "generated_at": "2026-10-22 09:10:45",
+  "generated_at": "2026-10-23 09:10:43",
   "universe": 503,
   "candidates": 20,
   "rs_missing": 0,
@@ -10,16 +10,6 @@
   "picks": [
     {
       "rank": 1,
-      "ticker": "TMO",
-      "name": "써모 피셔 사이언티픽",
-      "sector": "Health Care",
-      "score": 73.5,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 26.1
-    },
-    {
-      "rank": 2,
       "ticker": "ACN",
       "name": "액센추어",
       "sector": "Information Technology",
@@ -29,6 +19,16 @@
       "rs_vs_spy": 35.3
     },
     {
+      "rank": 2,
+      "ticker": "TMO",
+      "name": "써모 피셔 사이언티픽",
+      "sector": "Health Care",
+      "score": 72.8,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 26.0
+    },
+    {
       "rank": 3,
       "ticker": "MPC",
       "name": "매러선 페트롤리엄",
@@ -36,7 +36,7 @@
       "score": 72.6,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 63.5
+      "rs_vs_spy": 63.4
     },
     {
       "rank": 4,
@@ -50,56 +50,46 @@
     },
     {
       "rank": 5,
-      "ticker": "APA",
-      "name": "APA",
-      "sector": "Energy",
-      "score": 71.8,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 23.5
-    },
-    {
-      "rank": 6,
-      "ticker": "COP",
-      "name": "코노코필립스",
-      "sector": "Energy",
-      "score": 71.7,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 13.6
-    },
-    {
-      "rank": 7,
-      "ticker": "NOW",
-      "name": "서비스나우",
-      "sector": "Information Technology",
-      "score": 71.7,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 43.0
-    },
-    {
-      "rank": 8,
       "ticker": "PSX",
       "name": "필립스 66",
       "sector": "Energy",
-      "score": 70.1,
+      "score": 71.7,
       "grade": "B",
       "ai_view": "HOLD",
       "rs_vs_spy": 44.3
     },
     {
-      "rank": 9,
+      "rank": 6,
       "ticker": "LLY",
       "name": "일라이 릴리",
       "sector": "Health Care",
-      "score": 69.0,
+      "score": 71.5,
       "grade": "B",
-      "ai_view": "HOLD",
-      "rs_vs_spy": 24.3
+      "ai_view": "BUY",
+      "rs_vs_spy": 24.2
     },
     {
-      "rank": 10,
+      "rank": 7,
+      "ticker": "APA",
+      "name": "APA",
+      "sector": "Energy",
+      "score": 69.3,
+      "grade": "B",
+      "ai_view": "HOLD",
+      "rs_vs_spy": 23.4
+    },
+    {
+      "rank": 8,
+      "ticker": "COP",
+      "name": "코노코필립스",
+      "sector": "Energy",
+      "score": 69.2,
+      "grade": "B",
+      "ai_view": "HOLD",
+      "rs_vs_spy": 13.6
+    },
+    {
+      "rank": 9,
       "ticker": "EOG",
       "name": "EOG 리소시스",
       "sector": "Energy",
@@ -107,6 +97,16 @@
       "grade": "B",
       "ai_view": "HOLD",
       "rs_vs_spy": 8.8
+    },
+    {
+      "rank": 10,
+      "ticker": "CVX",
+      "name": "셰브론",
+      "sector": "Energy",
+      "score": 68.7,
+      "grade": "B",
+      "ai_view": "HOLD",
+      "rs_vs_spy": 12.4
     }
   ],
   "scorecard": {
