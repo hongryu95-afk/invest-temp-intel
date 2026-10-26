@@ -1,6 +1,6 @@
 {
   "source": "us-stock 로컬 파이프라인",
-  "generated_at": "2026-10-23 09:10:43",
+  "generated_at": "2026-10-26 09:13:07",
   "universe": 503,
   "candidates": 20,
   "rs_missing": 0,
@@ -10,103 +10,103 @@
   "picks": [
     {
       "rank": 1,
-      "ticker": "ACN",
-      "name": "액센추어",
-      "sector": "Information Technology",
-      "score": 73.0,
+      "ticker": "COP",
+      "name": "코노코필립스",
+      "sector": "Energy",
+      "score": 73.8,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 35.3
+      "rs_vs_spy": 19.5
     },
     {
       "rank": 2,
-      "ticker": "TMO",
-      "name": "써모 피셔 사이언티픽",
-      "sector": "Health Care",
-      "score": 72.8,
+      "ticker": "ACN",
+      "name": "액센추어",
+      "sector": "Information Technology",
+      "score": 73.3,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 26.0
+      "rs_vs_spy": 41.6
     },
     {
       "rank": 3,
-      "ticker": "MPC",
-      "name": "매러선 페트롤리엄",
+      "ticker": "CRM",
+      "name": "세일즈포스",
+      "sector": "Information Technology",
+      "score": 73.2,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 26.2
+    },
+    {
+      "rank": 4,
+      "ticker": "EOG",
+      "name": "EOG 리소시스",
       "sector": "Energy",
       "score": 72.6,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 63.4
-    },
-    {
-      "rank": 4,
-      "ticker": "CRM",
-      "name": "세일즈포스",
-      "sector": "Information Technology",
-      "score": 72.5,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 24.4
+      "rs_vs_spy": 11.9
     },
     {
       "rank": 5,
-      "ticker": "PSX",
-      "name": "필립스 66",
-      "sector": "Energy",
-      "score": 71.7,
+      "ticker": "HAS",
+      "name": "해즈브로",
+      "sector": "Consumer Discretionary",
+      "score": 72.4,
       "grade": "B",
-      "ai_view": "HOLD",
-      "rs_vs_spy": 44.3
+      "ai_view": "BUY",
+      "rs_vs_spy": 24.0
     },
     {
       "rank": 6,
-      "ticker": "LLY",
-      "name": "일라이 릴리",
+      "ticker": "DHR",
+      "name": "다나허",
       "sector": "Health Care",
-      "score": 71.5,
+      "score": 72.2,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 24.2
+      "rs_vs_spy": 18.6
     },
     {
       "rank": 7,
-      "ticker": "APA",
-      "name": "APA",
-      "sector": "Energy",
-      "score": 69.3,
+      "ticker": "ULTA",
+      "name": "울타 뷰티",
+      "sector": "Consumer Discretionary",
+      "score": 71.5,
       "grade": "B",
-      "ai_view": "HOLD",
-      "rs_vs_spy": 23.4
+      "ai_view": "BUY",
+      "rs_vs_spy": 15.7
     },
     {
       "rank": 8,
-      "ticker": "COP",
-      "name": "코노코필립스",
-      "sector": "Energy",
-      "score": 69.2,
+      "ticker": "WST",
+      "name": "웨스트 파마슈티컬 서비시즈",
+      "sector": "Health Care",
+      "score": 71.3,
       "grade": "B",
-      "ai_view": "HOLD",
-      "rs_vs_spy": 13.6
+      "ai_view": "BUY",
+      "rs_vs_spy": 17.5
     },
     {
       "rank": 9,
-      "ticker": "EOG",
-      "name": "EOG 리소시스",
-      "sector": "Energy",
-      "score": 69.0,
+      "ticker": "ALLE",
+      "name": "얼리지언",
+      "sector": "Industrials",
+      "score": 68.9,
       "grade": "B",
       "ai_view": "HOLD",
-      "rs_vs_spy": 8.8
+      "rs_vs_spy": 21.8
     },
     {
       "rank": 10,
       "ticker": "CVX",
       "name": "셰브론",
       "sector": "Energy",
-      "score": 68.7,
+      "score": 68.9,
       "grade": "B",
       "ai_view": "HOLD",
-      "rs_vs_spy": 12.4
+      "rs_vs_spy": 17.5
     }
   ],
   "scorecard": {
