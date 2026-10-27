@@ -1,6 +1,6 @@
 {
   "source": "us-stock 로컬 파이프라인",
-  "generated_at": "2026-10-26 09:13:07",
+  "generated_at": "2026-10-27 09:10:53",
   "universe": 503,
   "candidates": 20,
   "rs_missing": 0,
@@ -10,16 +10,6 @@
   "picks": [
     {
       "rank": 1,
-      "ticker": "COP",
-      "name": "코노코필립스",
-      "sector": "Energy",
-      "score": 73.8,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 19.5
-    },
-    {
-      "rank": 2,
       "ticker": "ACN",
       "name": "액센추어",
       "sector": "Information Technology",
@@ -29,17 +19,17 @@
       "rs_vs_spy": 41.6
     },
     {
-      "rank": 3,
-      "ticker": "CRM",
-      "name": "세일즈포스",
-      "sector": "Information Technology",
-      "score": 73.2,
+      "rank": 2,
+      "ticker": "CVX",
+      "name": "셰브론",
+      "sector": "Energy",
+      "score": 73.0,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 26.2
+      "rs_vs_spy": 17.5
     },
     {
-      "rank": 4,
+      "rank": 3,
       "ticker": "EOG",
       "name": "EOG 리소시스",
       "sector": "Energy",
@@ -49,17 +39,7 @@
       "rs_vs_spy": 11.9
     },
     {
-      "rank": 5,
-      "ticker": "HAS",
-      "name": "해즈브로",
-      "sector": "Consumer Discretionary",
-      "score": 72.4,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 24.0
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "ticker": "DHR",
       "name": "다나허",
       "sector": "Health Care",
@@ -69,44 +49,64 @@
       "rs_vs_spy": 18.6
     },
     {
-      "rank": 7,
-      "ticker": "ULTA",
-      "name": "울타 뷰티",
-      "sector": "Consumer Discretionary",
-      "score": 71.5,
+      "rank": 5,
+      "ticker": "COP",
+      "name": "코노코필립스",
+      "sector": "Energy",
+      "score": 72.1,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 15.7
+      "rs_vs_spy": 19.5
     },
     {
-      "rank": 8,
-      "ticker": "WST",
-      "name": "웨스트 파마슈티컬 서비시즈",
-      "sector": "Health Care",
-      "score": 71.3,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 17.5
-    },
-    {
-      "rank": 9,
+      "rank": 6,
       "ticker": "ALLE",
       "name": "얼리지언",
       "sector": "Industrials",
-      "score": 68.9,
+      "score": 71.4,
       "grade": "B",
-      "ai_view": "HOLD",
+      "ai_view": "BUY",
       "rs_vs_spy": 21.8
     },
     {
-      "rank": 10,
-      "ticker": "CVX",
-      "name": "셰브론",
-      "sector": "Energy",
-      "score": 68.9,
+      "rank": 7,
+      "ticker": "CRM",
+      "name": "세일즈포스",
+      "sector": "Information Technology",
+      "score": 70.7,
+      "grade": "B",
+      "ai_view": "HOLD",
+      "rs_vs_spy": 26.2
+    },
+    {
+      "rank": 8,
+      "ticker": "ULTA",
+      "name": "울타 뷰티",
+      "sector": "Consumer Discretionary",
+      "score": 69.0,
+      "grade": "B",
+      "ai_view": "HOLD",
+      "rs_vs_spy": 15.7
+    },
+    {
+      "rank": 9,
+      "ticker": "WST",
+      "name": "웨스트 파마슈티컬 서비시즈",
+      "sector": "Health Care",
+      "score": 68.8,
       "grade": "B",
       "ai_view": "HOLD",
       "rs_vs_spy": 17.5
+    },
+    {
+      "rank": 10,
+      "ticker": "CTSH",
+      "name": "코그니전트 테크놀로지 솔루션",
+      "sector": "Information Technology",
+      "score": 68.7,
+      "grade": "B",
+      "ai_view": "HOLD",
+      "rs_vs_spy": 29.3
     }
   ],
   "scorecard": {
