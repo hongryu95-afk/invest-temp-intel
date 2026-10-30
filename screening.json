@@ -1,6 +1,6 @@
 {
   "source": "us-stock 로컬 파이프라인",
-  "generated_at": "2026-10-29 09:10:32",
+  "generated_at": "2026-10-30 09:11:24",
   "universe": 503,
   "candidates": 20,
   "rs_missing": 0,
@@ -10,103 +10,103 @@
   "picks": [
     {
       "rank": 1,
-      "ticker": "HAS",
-      "name": "해즈브로",
-      "sector": "Consumer Discretionary",
-      "score": 73.4,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 24.2
-    },
-    {
-      "rank": 2,
       "ticker": "EOG",
       "name": "EOG 리소시스",
       "sector": "Energy",
-      "score": 73.4,
+      "score": 74.2,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 13.9
+      "rs_vs_spy": 16.3
+    },
+    {
+      "rank": 2,
+      "ticker": "A",
+      "name": "애질런트 테크놀로지스",
+      "sector": "Health Care",
+      "score": 74.0,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 33.6
     },
     {
       "rank": 3,
-      "ticker": "CVX",
-      "name": "셰브론",
-      "sector": "Energy",
-      "score": 73.2,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 17.4
-    },
-    {
-      "rank": 4,
-      "ticker": "ULTA",
-      "name": "울타 뷰티",
-      "sector": "Consumer Discretionary",
-      "score": 73.0,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 13.3
-    },
-    {
-      "rank": 5,
-      "ticker": "CTSH",
-      "name": "코그니전트 테크놀로지 솔루션",
-      "sector": "Information Technology",
-      "score": 72.8,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 21.5
-    },
-    {
-      "rank": 6,
       "ticker": "COP",
       "name": "코노코필립스",
       "sector": "Energy",
-      "score": 71.5,
+      "score": 73.9,
       "grade": "B",
-      "ai_view": "HOLD",
-      "rs_vs_spy": 20.8
+      "ai_view": "BUY",
+      "rs_vs_spy": 24.4
+    },
+    {
+      "rank": 4,
+      "ticker": "CVX",
+      "name": "셰브론",
+      "sector": "Energy",
+      "score": 73.9,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 19.4
+    },
+    {
+      "rank": 5,
+      "ticker": "TMO",
+      "name": "써모 피셔 사이언티픽",
+      "sector": "Health Care",
+      "score": 73.4,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 29.2
+    },
+    {
+      "rank": 6,
+      "ticker": "CTSH",
+      "name": "코그니전트 테크놀로지 솔루션",
+      "sector": "Information Technology",
+      "score": 73.4,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 20.1
     },
     {
       "rank": 7,
-      "ticker": "DHR",
-      "name": "다나허",
+      "ticker": "IQV",
+      "name": "아이큐비아 홀딩스",
       "sector": "Health Care",
-      "score": 69.6,
+      "score": 71.6,
       "grade": "B",
-      "ai_view": "HOLD",
-      "rs_vs_spy": 19.0
+      "ai_view": "BUY",
+      "rs_vs_spy": 32.1
     },
     {
       "rank": 8,
-      "ticker": "ACN",
-      "name": "액센추어",
-      "sector": "Information Technology",
-      "score": 69.5,
+      "ticker": "HAS",
+      "name": "해즈브로",
+      "sector": "Consumer Discretionary",
+      "score": 69.6,
       "grade": "B",
       "ai_view": "HOLD",
-      "rs_vs_spy": 35.0
+      "rs_vs_spy": 24.7
     },
     {
       "rank": 9,
-      "ticker": "EXPD",
-      "name": "익스페디터스 인터내셔널 오브 워싱턴",
-      "sector": "Industrials",
-      "score": 69.3,
+      "ticker": "DVN",
+      "name": "데번 에너지",
+      "sector": "Energy",
+      "score": 69.5,
       "grade": "B",
       "ai_view": "HOLD",
-      "rs_vs_spy": 19.3
+      "rs_vs_spy": 11.3
     },
     {
       "rank": 10,
-      "ticker": "CRM",
-      "name": "세일즈포스",
+      "ticker": "ACN",
+      "name": "액센추어",
       "sector": "Information Technology",
-      "score": 69.1,
+      "score": 69.2,
       "grade": "B",
       "ai_view": "HOLD",
-      "rs_vs_spy": 23.7
+      "rs_vs_spy": 35.4
     }
   ],
   "scorecard": {
