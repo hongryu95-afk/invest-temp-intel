@@ -1,6 +1,6 @@
 {
   "source": "us-stock 로컬 파이프라인",
-  "generated_at": "2026-10-30 09:11:24",
+  "generated_at": "2026-11-02 09:10:38",
   "universe": 503,
   "candidates": 20,
   "rs_missing": 0,
@@ -10,103 +10,103 @@
   "picks": [
     {
       "rank": 1,
-      "ticker": "EOG",
-      "name": "EOG 리소시스",
-      "sector": "Energy",
-      "score": 74.2,
+      "ticker": "ULTA",
+      "name": "울타 뷰티",
+      "sector": "Consumer Discretionary",
+      "score": 73.9,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 16.3
+      "rs_vs_spy": 21.2
     },
     {
       "rank": 2,
-      "ticker": "A",
-      "name": "애질런트 테크놀로지스",
+      "ticker": "MDT",
+      "name": "메드트로닉",
       "sector": "Health Care",
-      "score": 74.0,
+      "score": 73.3,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 33.6
+      "rs_vs_spy": 21.6
     },
     {
       "rank": 3,
-      "ticker": "COP",
-      "name": "코노코필립스",
-      "sector": "Energy",
-      "score": 73.9,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 24.4
-    },
-    {
-      "rank": 4,
-      "ticker": "CVX",
-      "name": "셰브론",
-      "sector": "Energy",
-      "score": 73.9,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 19.4
-    },
-    {
-      "rank": 5,
-      "ticker": "TMO",
-      "name": "써모 피셔 사이언티픽",
-      "sector": "Health Care",
-      "score": 73.4,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 29.2
-    },
-    {
-      "rank": 6,
-      "ticker": "CTSH",
-      "name": "코그니전트 테크놀로지 솔루션",
-      "sector": "Information Technology",
-      "score": 73.4,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 20.1
-    },
-    {
-      "rank": 7,
-      "ticker": "IQV",
-      "name": "아이큐비아 홀딩스",
-      "sector": "Health Care",
-      "score": 71.6,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 32.1
-    },
-    {
-      "rank": 8,
-      "ticker": "HAS",
-      "name": "해즈브로",
-      "sector": "Consumer Discretionary",
-      "score": 69.6,
-      "grade": "B",
-      "ai_view": "HOLD",
-      "rs_vs_spy": 24.7
-    },
-    {
-      "rank": 9,
       "ticker": "DVN",
       "name": "데번 에너지",
       "sector": "Energy",
-      "score": 69.5,
+      "score": 73.2,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 14.4
+    },
+    {
+      "rank": 4,
+      "ticker": "EOG",
+      "name": "EOG 리소시스",
+      "sector": "Energy",
+      "score": 73.0,
       "grade": "B",
       "ai_view": "HOLD",
-      "rs_vs_spy": 11.3
+      "rs_vs_spy": 22.7
+    },
+    {
+      "rank": 5,
+      "ticker": "OXY",
+      "name": "옥시덴털 페트롤리움",
+      "sector": "Energy",
+      "score": 72.7,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 14.4
+    },
+    {
+      "rank": 6,
+      "ticker": "LMT",
+      "name": "록히드 마틴",
+      "sector": "Industrials",
+      "score": 70.5,
+      "grade": "B",
+      "ai_view": "HOLD",
+      "rs_vs_spy": 20.6
+    },
+    {
+      "rank": 7,
+      "ticker": "V",
+      "name": "비자",
+      "sector": "Financials",
+      "score": 70.1,
+      "grade": "B",
+      "ai_view": "HOLD",
+      "rs_vs_spy": 20.0
+    },
+    {
+      "rank": 8,
+      "ticker": "GEHC",
+      "name": "GE 헬스케어",
+      "sector": "Health Care",
+      "score": 70.1,
+      "grade": "B",
+      "ai_view": "HOLD",
+      "rs_vs_spy": 18.1
+    },
+    {
+      "rank": 9,
+      "ticker": "MA",
+      "name": "마스터카드",
+      "sector": "Financials",
+      "score": 70.0,
+      "grade": "B",
+      "ai_view": "HOLD",
+      "rs_vs_spy": 20.1
     },
     {
       "rank": 10,
-      "ticker": "ACN",
-      "name": "액센추어",
-      "sector": "Information Technology",
-      "score": 69.2,
+      "ticker": "HAS",
+      "name": "해즈브로",
+      "sector": "Consumer Discretionary",
+      "score": 69.9,
       "grade": "B",
       "ai_view": "HOLD",
-      "rs_vs_spy": 35.4
+      "rs_vs_spy": 28.8
     }
   ],
   "scorecard": {
