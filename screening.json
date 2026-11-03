@@ -1,6 +1,6 @@
 {
   "source": "us-stock 로컬 파이프라인",
-  "generated_at": "2026-11-02 09:10:38",
+  "generated_at": "2026-11-03 09:10:48",
   "universe": 503,
   "candidates": 20,
   "rs_missing": 0,
@@ -10,103 +10,103 @@
   "picks": [
     {
       "rank": 1,
-      "ticker": "ULTA",
-      "name": "울타 뷰티",
-      "sector": "Consumer Discretionary",
-      "score": 73.9,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 21.2
-    },
-    {
-      "rank": 2,
-      "ticker": "MDT",
-      "name": "메드트로닉",
-      "sector": "Health Care",
-      "score": 73.3,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 21.6
-    },
-    {
-      "rank": 3,
-      "ticker": "DVN",
-      "name": "데번 에너지",
-      "sector": "Energy",
-      "score": 73.2,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 14.4
-    },
-    {
-      "rank": 4,
       "ticker": "EOG",
       "name": "EOG 리소시스",
       "sector": "Energy",
-      "score": 73.0,
-      "grade": "B",
-      "ai_view": "HOLD",
-      "rs_vs_spy": 22.7
-    },
-    {
-      "rank": 5,
-      "ticker": "OXY",
-      "name": "옥시덴털 페트롤리움",
-      "sector": "Energy",
-      "score": 72.7,
+      "score": 74.1,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 14.4
+      "rs_vs_spy": 17.3
     },
     {
-      "rank": 6,
-      "ticker": "LMT",
-      "name": "록히드 마틴",
-      "sector": "Industrials",
-      "score": 70.5,
-      "grade": "B",
-      "ai_view": "HOLD",
-      "rs_vs_spy": 20.6
-    },
-    {
-      "rank": 7,
-      "ticker": "V",
-      "name": "비자",
-      "sector": "Financials",
-      "score": 70.1,
-      "grade": "B",
-      "ai_view": "HOLD",
-      "rs_vs_spy": 20.0
-    },
-    {
-      "rank": 8,
-      "ticker": "GEHC",
-      "name": "GE 헬스케어",
-      "sector": "Health Care",
-      "score": 70.1,
-      "grade": "B",
-      "ai_view": "HOLD",
-      "rs_vs_spy": 18.1
-    },
-    {
-      "rank": 9,
-      "ticker": "MA",
-      "name": "마스터카드",
-      "sector": "Financials",
-      "score": 70.0,
-      "grade": "B",
-      "ai_view": "HOLD",
-      "rs_vs_spy": 20.1
-    },
-    {
-      "rank": 10,
+      "rank": 2,
       "ticker": "HAS",
       "name": "해즈브로",
       "sector": "Consumer Discretionary",
+      "score": 74.1,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 27.6
+    },
+    {
+      "rank": 3,
+      "ticker": "COP",
+      "name": "코노코필립스",
+      "sector": "Energy",
+      "score": 73.5,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 23.4
+    },
+    {
+      "rank": 4,
+      "ticker": "LMT",
+      "name": "록히드 마틴",
+      "sector": "Industrials",
+      "score": 73.3,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 21.1
+    },
+    {
+      "rank": 5,
+      "ticker": "MDT",
+      "name": "메드트로닉",
+      "sector": "Health Care",
+      "score": 73.0,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 22.9
+    },
+    {
+      "rank": 6,
+      "ticker": "XOM",
+      "name": "엑슨모빌 홀딩스",
+      "sector": "Energy",
+      "score": 72.8,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 17.9
+    },
+    {
+      "rank": 7,
+      "ticker": "REGN",
+      "name": "리제네론 파마슈티컬스",
+      "sector": "Health Care",
+      "score": 72.4,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 30.0
+    },
+    {
+      "rank": 8,
+      "ticker": "DGX",
+      "name": "퀘스트 다이아그노스틱스",
+      "sector": "Health Care",
+      "score": 72.4,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 20.0
+    },
+    {
+      "rank": 9,
+      "ticker": "GEHC",
+      "name": "GE 헬스케어",
+      "sector": "Health Care",
+      "score": 70.0,
+      "grade": "B",
+      "ai_view": "HOLD",
+      "rs_vs_spy": 21.5
+    },
+    {
+      "rank": 10,
+      "ticker": "EXPD",
+      "name": "익스페디터스 인터내셔널 오브 워싱턴",
+      "sector": "Industrials",
       "score": 69.9,
       "grade": "B",
       "ai_view": "HOLD",
-      "rs_vs_spy": 28.8
+      "rs_vs_spy": 19.7
     }
   ],
   "scorecard": {
