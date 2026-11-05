@@ -1,6 +1,6 @@
 {
   "source": "us-stock 로컬 파이프라인",
-  "generated_at": "2026-11-04 09:13:10",
+  "generated_at": "2026-11-05 09:10:50",
   "universe": 503,
   "candidates": 20,
   "rs_missing": 0,
@@ -10,103 +10,103 @@
   "picks": [
     {
       "rank": 1,
-      "ticker": "HAS",
-      "name": "해즈브로",
-      "sector": "Consumer Discretionary",
-      "score": 74.1,
+      "ticker": "REGN",
+      "name": "리제네론 파마슈티컬스",
+      "sector": "Health Care",
+      "score": 72.9,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 27.6
+      "rs_vs_spy": 24.4
     },
     {
       "rank": 2,
-      "ticker": "WTW",
-      "name": "윌리스 타워스 왓슨",
-      "sector": "Financials",
-      "score": 73.5,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 19.6
-    },
-    {
-      "rank": 3,
-      "ticker": "ULTA",
-      "name": "울타 뷰티",
+      "ticker": "CCL",
+      "name": "카니발",
       "sector": "Consumer Discretionary",
-      "score": 73.3,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 22.6
-    },
-    {
-      "rank": 4,
-      "ticker": "LMT",
-      "name": "록히드 마틴",
-      "sector": "Industrials",
-      "score": 73.0,
+      "score": 72.7,
       "grade": "B",
       "ai_view": "BUY",
       "rs_vs_spy": 19.5
     },
     {
-      "rank": 5,
-      "ticker": "MDT",
-      "name": "메드트로닉",
-      "sector": "Health Care",
-      "score": 73.0,
+      "rank": 3,
+      "ticker": "HAS",
+      "name": "해즈브로",
+      "sector": "Consumer Discretionary",
+      "score": 72.3,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 22.4
+      "rs_vs_spy": 28.1
+    },
+    {
+      "rank": 4,
+      "ticker": "GEHC",
+      "name": "GE 헬스케어",
+      "sector": "Health Care",
+      "score": 72.2,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 29.3
+    },
+    {
+      "rank": 5,
+      "ticker": "JKHY",
+      "name": "잭 헨리 & 어소시에이츠",
+      "sector": "Financials",
+      "score": 72.2,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 25.9
     },
     {
       "rank": 6,
-      "ticker": "HST",
-      "name": "호스트 호텔스 & 리조트",
-      "sector": "Real Estate",
-      "score": 72.5,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 20.2
-    },
-    {
-      "rank": 7,
-      "ticker": "REGN",
-      "name": "리제네론 파마슈티컬스",
-      "sector": "Health Care",
-      "score": 72.4,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 30.5
-    },
-    {
-      "rank": 8,
       "ticker": "ALLE",
       "name": "얼리지언",
       "sector": "Industrials",
-      "score": 69.8,
+      "score": 72.1,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 33.4
+    },
+    {
+      "rank": 7,
+      "ticker": "MET",
+      "name": "메트라이프",
+      "sector": "Financials",
+      "score": 72.0,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 18.3
+    },
+    {
+      "rank": 8,
+      "ticker": "WTW",
+      "name": "윌리스 타워스 왓슨",
+      "sector": "Financials",
+      "score": 70.9,
       "grade": "B",
       "ai_view": "HOLD",
-      "rs_vs_spy": 32.1
+      "rs_vs_spy": 20.3
     },
     {
       "rank": 9,
-      "ticker": "ERIE",
-      "name": "이리 인뎀니티",
+      "ticker": "ALL",
+      "name": "올스테이트",
       "sector": "Financials",
       "score": 69.8,
       "grade": "B",
       "ai_view": "HOLD",
-      "rs_vs_spy": 20.8
+      "rs_vs_spy": 16.5
     },
     {
       "rank": 10,
-      "ticker": "GEHC",
-      "name": "GE 헬스케어",
-      "sector": "Health Care",
-      "score": 69.7,
+      "ticker": "WSM",
+      "name": "윌리엄 소노마",
+      "sector": "Consumer Discretionary",
+      "score": 69.5,
       "grade": "B",
       "ai_view": "HOLD",
-      "rs_vs_spy": 23.6
+      "rs_vs_spy": 32.1
     }
   ],
   "scorecard": {
