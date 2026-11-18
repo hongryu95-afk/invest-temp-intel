@@ -1,6 +1,6 @@
 {
   "source": "us-stock 로컬 파이프라인",
-  "generated_at": "2026-11-16 09:10:37",
+  "generated_at": "2026-11-18 09:10:30",
   "universe": 503,
   "candidates": 20,
   "rs_missing": 0,
@@ -10,103 +10,103 @@
   "picks": [
     {
       "rank": 1,
-      "ticker": "GEHC",
-      "name": "GE 헬스케어",
-      "sector": "Health Care",
-      "score": 75.7,
+      "ticker": "JKHY",
+      "name": "잭 헨리 & 어소시에이츠",
+      "sector": "Financials",
+      "score": 73.9,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 22.3
+      "rs_vs_spy": 22.1
     },
     {
       "rank": 2,
       "ticker": "REGN",
       "name": "리제네론 파마슈티컬스",
       "sector": "Health Care",
-      "score": 73.7,
+      "score": 73.8,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 34.2
+      "rs_vs_spy": 38.9
     },
     {
       "rank": 3,
-      "ticker": "JKHY",
-      "name": "잭 헨리 & 어소시에이츠",
-      "sector": "Financials",
-      "score": 73.6,
+      "ticker": "GEHC",
+      "name": "GE 헬스케어",
+      "sector": "Health Care",
+      "score": 73.0,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 20.8
+      "rs_vs_spy": 24.9
     },
     {
       "rank": 4,
-      "ticker": "ABNB",
-      "name": "에어비앤비",
-      "sector": "Consumer Discretionary",
+      "ticker": "ALL",
+      "name": "올스테이트",
+      "sector": "Financials",
       "score": 72.9,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 22.2
+      "rs_vs_spy": 22.1
     },
     {
       "rank": 5,
-      "ticker": "CDW",
-      "name": "CDW",
-      "sector": "Information Technology",
-      "score": 72.3,
+      "ticker": "CPAY",
+      "name": "콜페이",
+      "sector": "Financials",
+      "score": 72.9,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 40.9
+      "rs_vs_spy": 22.4
     },
     {
       "rank": 6,
-      "ticker": "MDT",
-      "name": "메드트로닉",
-      "sector": "Health Care",
-      "score": 71.9,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 22.8
-    },
-    {
-      "rank": 7,
-      "ticker": "WTW",
-      "name": "윌리스 타워스 왓슨",
-      "sector": "Financials",
-      "score": 70.1,
-      "grade": "B",
-      "ai_view": "HOLD",
-      "rs_vs_spy": 16.7
-    },
-    {
-      "rank": 8,
       "ticker": "EPAM",
       "name": "이팸 시스템즈",
       "sector": "",
-      "score": 70.0,
+      "score": 72.8,
       "grade": "B",
-      "ai_view": "HOLD",
-      "rs_vs_spy": 54.4
+      "ai_view": "BUY",
+      "rs_vs_spy": 44.5
     },
     {
-      "rank": 9,
-      "ticker": "VLTO",
-      "name": "베랄토",
-      "sector": "Industrials",
-      "score": 69.5,
+      "rank": 7,
+      "ticker": "STE",
+      "name": "스테리스",
+      "sector": "Health Care",
+      "score": 72.5,
       "grade": "B",
-      "ai_view": "HOLD",
-      "rs_vs_spy": 28.0
+      "ai_view": "BUY",
+      "rs_vs_spy": 18.9
     },
     {
-      "rank": 10,
-      "ticker": "BR",
-      "name": "브로드리지 파이낸셜 솔루션스",
-      "sector": "Industrials",
-      "score": 69.5,
+      "rank": 8,
+      "ticker": "UHS",
+      "name": "유니버설 헬스 서비시스",
+      "sector": "Health Care",
+      "score": 70.2,
       "grade": "B",
       "ai_view": "HOLD",
       "rs_vs_spy": 20.8
+    },
+    {
+      "rank": 9,
+      "ticker": "AIZ",
+      "name": "어슈런트",
+      "sector": "Financials",
+      "score": 69.9,
+      "grade": "B",
+      "ai_view": "HOLD",
+      "rs_vs_spy": 25.3
+    },
+    {
+      "rank": 10,
+      "ticker": "ABNB",
+      "name": "에어비앤비",
+      "sector": "Consumer Discretionary",
+      "score": 69.9,
+      "grade": "B",
+      "ai_view": "HOLD",
+      "rs_vs_spy": 19.6
     }
   ],
   "scorecard": {
