@@ -1,6 +1,6 @@
 {
   "source": "us-stock 로컬 파이프라인",
-  "generated_at": "2026-11-18 09:10:30",
+  "generated_at": "2026-11-19 09:10:41",
   "universe": 503,
   "candidates": 20,
   "rs_missing": 0,
@@ -10,103 +10,103 @@
   "picks": [
     {
       "rank": 1,
+      "ticker": "REGN",
+      "name": "리제네론 파마슈티컬스",
+      "sector": "Health Care",
+      "score": 74.3,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 38.4
+    },
+    {
+      "rank": 2,
       "ticker": "JKHY",
       "name": "잭 헨리 & 어소시에이츠",
       "sector": "Financials",
       "score": 73.9,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 22.1
-    },
-    {
-      "rank": 2,
-      "ticker": "REGN",
-      "name": "리제네론 파마슈티컬스",
-      "sector": "Health Care",
-      "score": 73.8,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 38.9
+      "rs_vs_spy": 21.5
     },
     {
       "rank": 3,
-      "ticker": "GEHC",
-      "name": "GE 헬스케어",
-      "sector": "Health Care",
-      "score": 73.0,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 24.9
-    },
-    {
-      "rank": 4,
-      "ticker": "ALL",
-      "name": "올스테이트",
-      "sector": "Financials",
-      "score": 72.9,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 22.1
-    },
-    {
-      "rank": 5,
-      "ticker": "CPAY",
-      "name": "콜페이",
-      "sector": "Financials",
-      "score": 72.9,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 22.4
-    },
-    {
-      "rank": 6,
-      "ticker": "EPAM",
-      "name": "이팸 시스템즈",
-      "sector": "",
-      "score": 72.8,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 44.5
-    },
-    {
-      "rank": 7,
       "ticker": "STE",
       "name": "스테리스",
       "sector": "Health Care",
-      "score": 72.5,
+      "score": 72.8,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 18.9
+      "rs_vs_spy": 21.8
     },
     {
-      "rank": 8,
-      "ticker": "UHS",
-      "name": "유니버설 헬스 서비시스",
-      "sector": "Health Care",
-      "score": 70.2,
-      "grade": "B",
-      "ai_view": "HOLD",
-      "rs_vs_spy": 20.8
-    },
-    {
-      "rank": 9,
+      "rank": 4,
       "ticker": "AIZ",
       "name": "어슈런트",
       "sector": "Financials",
-      "score": 69.9,
+      "score": 72.5,
       "grade": "B",
-      "ai_view": "HOLD",
-      "rs_vs_spy": 25.3
+      "ai_view": "BUY",
+      "rs_vs_spy": 24.5
     },
     {
-      "rank": 10,
+      "rank": 5,
       "ticker": "ABNB",
       "name": "에어비앤비",
       "sector": "Consumer Discretionary",
-      "score": 69.9,
+      "score": 72.3,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 20.7
+    },
+    {
+      "rank": 6,
+      "ticker": "KO",
+      "name": "코카콜라",
+      "sector": "Consumer Staples",
+      "score": 72.3,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 20.2
+    },
+    {
+      "rank": 7,
+      "ticker": "SPG",
+      "name": "사이먼 프로퍼티 그룹",
+      "sector": "Real Estate",
+      "score": 71.6,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 16.2
+    },
+    {
+      "rank": 8,
+      "ticker": "GEN",
+      "name": "젠 디지털",
+      "sector": "Information Technology",
+      "score": 69.5,
       "grade": "B",
       "ai_view": "HOLD",
-      "rs_vs_spy": 19.6
+      "rs_vs_spy": 20.2
+    },
+    {
+      "rank": 9,
+      "ticker": "DIS",
+      "name": "월트 디즈니",
+      "sector": "Communication Services",
+      "score": 69.1,
+      "grade": "B",
+      "ai_view": "HOLD",
+      "rs_vs_spy": 19.3
+    },
+    {
+      "rank": 10,
+      "ticker": "ZTS",
+      "name": "조에티스",
+      "sector": "Health Care",
+      "score": 68.9,
+      "grade": "B",
+      "ai_view": "HOLD",
+      "rs_vs_spy": 14.8
     }
   ],
   "scorecard": {
