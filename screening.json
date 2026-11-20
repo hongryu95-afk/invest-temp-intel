@@ -1,6 +1,6 @@
 {
   "source": "us-stock 로컬 파이프라인",
-  "generated_at": "2026-11-19 09:10:41",
+  "generated_at": "2026-11-20 09:10:27",
   "universe": 503,
   "candidates": 20,
   "rs_missing": 0,
@@ -10,103 +10,103 @@
   "picks": [
     {
       "rank": 1,
-      "ticker": "REGN",
-      "name": "리제네론 파마슈티컬스",
-      "sector": "Health Care",
-      "score": 74.3,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 38.4
-    },
-    {
-      "rank": 2,
-      "ticker": "JKHY",
-      "name": "잭 헨리 & 어소시에이츠",
-      "sector": "Financials",
-      "score": 73.9,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 21.5
-    },
-    {
-      "rank": 3,
-      "ticker": "STE",
-      "name": "스테리스",
-      "sector": "Health Care",
-      "score": 72.8,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 21.8
-    },
-    {
-      "rank": 4,
       "ticker": "AIZ",
       "name": "어슈런트",
       "sector": "Financials",
-      "score": 72.5,
+      "score": 73.3,
       "grade": "B",
       "ai_view": "BUY",
       "rs_vs_spy": 24.5
     },
     {
-      "rank": 5,
-      "ticker": "ABNB",
-      "name": "에어비앤비",
+      "rank": 2,
+      "ticker": "STE",
+      "name": "스테리스",
+      "sector": "Health Care",
+      "score": 73.2,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 21.1
+    },
+    {
+      "rank": 3,
+      "ticker": "DRI",
+      "name": "다든 레스토랑",
       "sector": "Consumer Discretionary",
-      "score": 72.3,
+      "score": 72.0,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 20.7
+      "rs_vs_spy": 17.2
     },
     {
-      "rank": 6,
-      "ticker": "KO",
-      "name": "코카콜라",
-      "sector": "Consumer Staples",
-      "score": 72.3,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 20.2
-    },
-    {
-      "rank": 7,
-      "ticker": "SPG",
-      "name": "사이먼 프로퍼티 그룹",
-      "sector": "Real Estate",
-      "score": 71.6,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 16.2
-    },
-    {
-      "rank": 8,
-      "ticker": "GEN",
-      "name": "젠 디지털",
-      "sector": "Information Technology",
-      "score": 69.5,
-      "grade": "B",
-      "ai_view": "HOLD",
-      "rs_vs_spy": 20.2
-    },
-    {
-      "rank": 9,
+      "rank": 4,
       "ticker": "DIS",
       "name": "월트 디즈니",
       "sector": "Communication Services",
-      "score": 69.1,
+      "score": 71.4,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 18.8
+    },
+    {
+      "rank": 5,
+      "ticker": "ALL",
+      "name": "올스테이트",
+      "sector": "Financials",
+      "score": 71.2,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 21.7
+    },
+    {
+      "rank": 6,
+      "ticker": "COST",
+      "name": "코스트코 홀세일",
+      "sector": "Consumer Staples",
+      "score": 71.1,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 19.6
+    },
+    {
+      "rank": 7,
+      "ticker": "CLX",
+      "name": "크로락스",
+      "sector": "Consumer Staples",
+      "score": 70.8,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 20.8
+    },
+    {
+      "rank": 8,
+      "ticker": "TGT",
+      "name": "타겟",
+      "sector": "Consumer Staples",
+      "score": 68.4,
       "grade": "B",
       "ai_view": "HOLD",
-      "rs_vs_spy": 19.3
+      "rs_vs_spy": 26.6
+    },
+    {
+      "rank": 9,
+      "ticker": "CMG",
+      "name": "치폴레 멕시칸 그릴",
+      "sector": "Consumer Discretionary",
+      "score": 68.2,
+      "grade": "B",
+      "ai_view": "HOLD",
+      "rs_vs_spy": 20.1
     },
     {
       "rank": 10,
-      "ticker": "ZTS",
-      "name": "조에티스",
-      "sector": "Health Care",
-      "score": 68.9,
+      "ticker": "TSCO",
+      "name": "트랙터 서플라이",
+      "sector": "Consumer Discretionary",
+      "score": 68.1,
       "grade": "B",
       "ai_view": "HOLD",
-      "rs_vs_spy": 14.8
+      "rs_vs_spy": 22.6
     }
   ],
   "scorecard": {
