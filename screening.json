@@ -1,6 +1,6 @@
 {
   "source": "us-stock 로컬 파이프라인",
-  "generated_at": "2026-11-23 09:10:40",
+  "generated_at": "2026-11-24 09:11:51",
   "universe": 503,
   "candidates": 20,
   "rs_missing": 0,
@@ -10,103 +10,103 @@
   "picks": [
     {
       "rank": 1,
-      "ticker": "COST",
-      "name": "코스트코 홀세일",
-      "sector": "Consumer Staples",
-      "score": 71.2,
+      "ticker": "REGN",
+      "name": "리제네론 파마슈티컬스",
+      "sector": "Health Care",
+      "score": 71.3,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 24.7
+      "rs_vs_spy": 40.0
     },
     {
       "rank": 2,
       "ticker": "TGT",
       "name": "타겟",
       "sector": "Consumer Staples",
-      "score": 71.1,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 29.7
-    },
-    {
-      "rank": 3,
-      "ticker": "CLX",
-      "name": "크로락스",
-      "sector": "Consumer Staples",
       "score": 70.9,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 24.6
+      "rs_vs_spy": 27.1
+    },
+    {
+      "rank": 3,
+      "ticker": "CMG",
+      "name": "치폴레 멕시칸 그릴",
+      "sector": "Consumer Discretionary",
+      "score": 70.9,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 21.9
     },
     {
       "rank": 4,
-      "ticker": "REGN",
-      "name": "리제네론 파마슈티컬스",
-      "sector": "Health Care",
-      "score": 70.7,
+      "ticker": "JKHY",
+      "name": "잭 헨리 & 어소시에이츠",
+      "sector": "Financials",
+      "score": 70.4,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 43.0
+      "rs_vs_spy": 21.0
     },
     {
       "rank": 5,
-      "ticker": "KIM",
-      "name": "킴코 리얼티",
-      "sector": "Real Estate",
-      "score": 70.7,
+      "ticker": "ICE",
+      "name": "인터컨티넨털 익스체인지",
+      "sector": "Financials",
+      "score": 70.3,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 17.9
+      "rs_vs_spy": 20.8
     },
     {
       "rank": 6,
       "ticker": "TSCO",
       "name": "트랙터 서플라이",
       "sector": "Consumer Discretionary",
-      "score": 70.6,
-      "grade": "B",
-      "ai_view": "BUY",
-      "rs_vs_spy": 30.0
-    },
-    {
-      "rank": 7,
-      "ticker": "JKHY",
-      "name": "잭 헨리 & 어소시에이츠",
-      "sector": "Financials",
       "score": 70.3,
       "grade": "B",
       "ai_view": "BUY",
-      "rs_vs_spy": 24.0
+      "rs_vs_spy": 25.2
     },
     {
-      "rank": 8,
-      "ticker": "AIZ",
-      "name": "어슈런트",
-      "sector": "Financials",
-      "score": 67.8,
-      "grade": "B",
-      "ai_view": "HOLD",
-      "rs_vs_spy": 29.1
-    },
-    {
-      "rank": 9,
-      "ticker": "STE",
-      "name": "스테리스",
-      "sector": "Health Care",
-      "score": 67.7,
-      "grade": "B",
-      "ai_view": "HOLD",
-      "rs_vs_spy": 26.0
-    },
-    {
-      "rank": 10,
+      "rank": 7,
       "ticker": "WTW",
       "name": "윌리스 타워스 왓슨",
       "sector": "Financials",
-      "score": 67.7,
+      "score": 70.1,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 22.2
+    },
+    {
+      "rank": 8,
+      "ticker": "IDXX",
+      "name": "아이덱스 래보라토리스",
+      "sector": "Health Care",
+      "score": 70.1,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 27.3
+    },
+    {
+      "rank": 9,
+      "ticker": "EPAM",
+      "name": "이팸 시스템즈",
+      "sector": "",
+      "score": 70.0,
+      "grade": "B",
+      "ai_view": "BUY",
+      "rs_vs_spy": 50.0
+    },
+    {
+      "rank": 10,
+      "ticker": "ALLE",
+      "name": "얼리지언",
+      "sector": "Industrials",
+      "score": 67.4,
       "grade": "B",
       "ai_view": "HOLD",
-      "rs_vs_spy": 24.0
+      "rs_vs_spy": 35.5
     }
   ],
   "scorecard": {
